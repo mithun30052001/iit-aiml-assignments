@@ -1,0 +1,32 @@
+Working with Files and JSON in Python
+Overview
+
+In this task, we manage a bookstore inventory stored in a JSON file called inventory.json. The program reads the inventory, updates it by adding a new book, and saves the updated data back to the file.
+
+Python's json module is used to handle JSON data, and with statements ensure files are safely opened and closed.
+
+Task 1 — Read the Inventory
+
+The program opens the inventory.json file using a with block and reads the data using json.load().
+The data is stored in a variable called inventory, which becomes a Python list of dictionaries.
+
+The program then prints the total number of books in the inventory using the len() function.
+
+Task 2 — Update and Save Inventory
+
+A new book is stored in a dictionary called new_book.
+This book is added to the inventory list using the append() method.
+
+The updated inventory is written back to inventory.json using json.dump().
+The parameter indent=4 is used to format the JSON file for better readability.
+
+Task 3 — Display the Inventory
+
+The program reads the updated JSON file again to confirm the changes.
+
+A for loop is used to iterate through each book in the inventory.
+The details of each book are printed in a formatted string showing the title, author, and price.
+
+Example format:
+
+Title: The Alchemist | Author: Paulo Coelho | Price: $12.99
