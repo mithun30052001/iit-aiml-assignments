@@ -1,0 +1,3 @@
+[submodule "streamlit-for-ai-demos"]
+	path = streamlit-for-ai-demos
+	url = https://github.com/mithun30052001/streamlit-basics-assignment.git
