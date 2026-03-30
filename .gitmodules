@@ -1,3 +1,6 @@
 [submodule "streamlit-for-ai-demos"]
 	path = streamlit-for-ai-demos
 	url = https://github.com/mithun30052001/streamlit-basics-assignment.git
+[submodule "module1-review-and-ethics"]
+	path = module1-review-and-ethics
+	url = https://github.com/mithun30052001/api-ethics-assignment
