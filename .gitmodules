@@ -4,3 +4,6 @@
 [submodule "module1-review-and-ethics"]
 	path = module1-review-and-ethics
 	url = https://github.com/mithun30052001/api-ethics-assignment
+[submodule "trendpulse-mithunl"]
+	path = trendpulse-mithunl
+	url = https://github.com/mithun30052001/trendpulse-mithunl.git
