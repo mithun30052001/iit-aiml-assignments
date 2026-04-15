@@ -7,3 +7,6 @@
 [submodule "trendpulse-mithunl"]
 	path = trendpulse-mithunl
 	url = https://github.com/mithun30052001/trendpulse-mithunl.git
+[submodule "avoiding-traps-leakage"]
+	path = avoiding-traps-leakage
+	url = https://github.com/mithun30052001/ml-leakage-pipeline-mithunl.git
